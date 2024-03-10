@@ -1,0 +1,4 @@
+Bill breakdown: 
+Pie:                      ...$2.99 
+tip:                      ...$0.50
+total:                    ...$3.49

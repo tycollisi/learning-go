@@ -1,0 +1,5 @@
+Bill breakdown: 
+Pie:                      ...$2.99 
+Water:                    ...$1.99 
+tip:                      ...$0.99
+total:                    ...$5.97
